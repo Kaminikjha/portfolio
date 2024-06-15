@@ -27,12 +27,12 @@ const siteProps = {
   name: "Kamini Jha",
   title: "Web Developer & Graphic Designer",
   email: "kaminijhag@gmail.com",
-  gitHub: " github",
+  gitHub: "Kaminikjha",
   instagram: " ",
-  linkedIn: "Kamini Jha",
+  linkedIn: "Kamini-Jha",
   medium: "",
   twitter: "",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
