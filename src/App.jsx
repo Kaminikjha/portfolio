@@ -29,7 +29,7 @@ const siteProps = {
   email: "kaminijhag@gmail.com",
   gitHub: "Kaminikjha",
   instagram: " ",
-  linkedIn: "Kamini-Jha",
+  linkedIn: "Kamini-Jha-b694ba217",
   medium: "",
   twitter: "",
   youTube: "",
