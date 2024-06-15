@@ -25,13 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Kamini Jha",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Web Developer & Graphic Designer",
+  email: "kaminijhag@gmail.com",
+  gitHub: " github",
+  instagram: " ",
+  linkedIn: "Kamini Jha",
   medium: "",
-  twitter: "microsoft",
+  twitter: "",
   youTube: "Code",
 };
 
